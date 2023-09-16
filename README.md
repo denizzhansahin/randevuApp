@@ -62,7 +62,7 @@ TumRandevularYonetici : my_randevu_cardview isimli XML kullanır.
 <div align="center">
     <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/5d69be50-e407-44e4-b3e8-b119d3cb3d2b" width="33%">
     <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/a16cc052-95cb-424c-a8f3-154f5fe38ba0" width="33%">
-    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/3f53376d-e531-421d-802d-234bb10fde7e" width="33%">
+    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/8032a11f-e62f-40ab-abcc-11139d23a469" width="33%">
 </div>
 <div align="center">
     <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/bce1ed42-ed8a-4c0b-a123-6d899d0dac51" width="33%">
@@ -76,4 +76,5 @@ TumRandevularYonetici : my_randevu_cardview isimli XML kullanır.
 </div>
 <div align="center">
     <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/e2332886-9a1f-4569-821f-5ecb953db0c8" width="33%">
+    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/3f53376d-e531-421d-802d-234bb10fde7e" width="33%">
 </div>
