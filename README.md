@@ -12,6 +12,7 @@ Yönetici kullancını grafik arayüzü ilgili takvim günündeki her bir kullan
 Randevu alan kullanıcıların grafik arayüzü ise ilgili takvim günündeki boş olan randevu saatlerini görüntüleyip istediğini seçebilmektedir. Her bir kullanıcı, kendisine ait tüm aktif randevularını ise tarih, saat bilgisi olarak görüntülemektedir. Kullanıcı isteğe bağlı olarak önceden seçtiği randevuları iptal edebilmektedir.
 
 Google Play Store : https://play.google.com/store/apps/details?id=com.bogazliyan.randevuapp
+
 Gizlilik Politikası : https://www.denizhansahin.com/p/gizlilik-politikamz-randevuapp.html 
 
 # Kullanılan Teknolojiler
