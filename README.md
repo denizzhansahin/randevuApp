@@ -11,6 +11,7 @@ Firebase Authentication hizmeti ile kullanıcıların giriş için gerekli bilgi
 Yönetici kullancını grafik arayüzü ilgili takvim günündeki her bir kullanıcının randevu aldığı saat bilgisi, kullanıcı email bilgisi ile eşleşen isim bilgisi gözükmektedir. Yönetici kullanıcı isterse bu randevuları iptal etmek seçeneğini kullanabilir. Yönetici kullanıcı ayrıca tüm aktif olan randevuların bilgisi hakkında bilgi alabilmektedir. Bunun için açılacak olan ekranda ise her bir kullanıcını email ile eşleşen ismi, randevu tarihi, randevu saati yer almaktadır. Yönetici bu randevuları isteğe bağlı olarak iptal edebilmektedir.
 Randevu alan kullanıcıların grafik arayüzü ise ilgili takvim günündeki boş olan randevu saatlerini görüntüleyip istediğini seçebilmektedir. Her bir kullanıcı, kendisine ait tüm aktif randevularını ise tarih, saat bilgisi olarak görüntülemektedir. Kullanıcı isteğe bağlı olarak önceden seçtiği randevuları iptal edebilmektedir.
 
+Google Play Store : https://play.google.com/store/apps/details?id=com.bogazliyan.randevuapp
 Gizlilik Politikası : https://www.denizhansahin.com/p/gizlilik-politikamz-randevuapp.html 
 
 # Kullanılan Teknolojiler
