@@ -1,7 +1,7 @@
 # RandevuApp
 
 <div align="center">
-    <img src="[https://github.com/denizzhansahin/anket66/assets/95483485/9201bed8-6449-4f64-a733-23cde9de8018](https://github.com/denizzhansahin/randevuApp/assets/95483485/032bfd1d-e822-4b8d-acb8-6899c3eaa680)" width="80%">
+    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/032bfd1d-e822-4b8d-acb8-6899c3eaa680" width="33%">
 </div>
 
 
@@ -15,8 +15,6 @@ Randevu alan kullanıcıların grafik arayüzü ise ilgili takvim günündeki bo
 <div align="center">
     <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/032bfd1d-e822-4b8d-acb8-6899c3eaa680" width="33%">
     <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/032bfd1d-e822-4b8d-acb8-6899c3eaa680" width="33%">
-    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/032bfd1d-e822-4b8d-acb8-6899c3eaa680" width="33%">
-
 </div>
 
 ## Firebase Kullanım Şeması:
