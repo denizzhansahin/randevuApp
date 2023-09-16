@@ -1,7 +1,7 @@
 # RandevuApp
 
 <div align="center">
-    <img src="https://github.com/denizzhansahin/anket66/assets/95483485/9201bed8-6449-4f64-a733-23cde9de8018" width="80%">
+    <img src="[https://github.com/denizzhansahin/anket66/assets/95483485/9201bed8-6449-4f64-a733-23cde9de8018](https://github.com/denizzhansahin/randevuApp/assets/95483485/032bfd1d-e822-4b8d-acb8-6899c3eaa680)" width="80%">
 </div>
 
 
@@ -13,9 +13,10 @@ Randevu alan kullanıcıların grafik arayüzü ise ilgili takvim günündeki bo
 
 # Kullanılan Teknolojiler
 <div align="center">
-    <img src="https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/f13cef80-aa09-4bf7-8bd3-dcb3965bc31a" width="33%">
-    <img src="https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/1f5deccd-63c6-4663-af47-7e0a1e4863a8" width="33%">
-    <img src="https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/d0531f77-0df1-4a54-9a5e-57527de7ca5f" width="33%">
+    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/032bfd1d-e822-4b8d-acb8-6899c3eaa680" width="33%">
+    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/032bfd1d-e822-4b8d-acb8-6899c3eaa680" width="33%">
+    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/032bfd1d-e822-4b8d-acb8-6899c3eaa680" width="33%">
+
 </div>
 
 ## Firebase Kullanım Şeması:
