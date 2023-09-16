@@ -57,14 +57,34 @@ TumRandevularYonetici : my_randevu_cardview isimli XML kullanır.
 
 ## Ekran Görüntüleri:
 
+<div align="center">
+    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/5d69be50-e407-44e4-b3e8-b119d3cb3d2b" width="33%">
+    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/a16cc052-95cb-424c-a8f3-154f5fe38ba0" width="33%">
+    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/3f53376d-e531-421d-802d-234bb10fde7e" width="33%">
+</div>
+<div align="center">
+    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/bce1ed42-ed8a-4c0b-a123-6d899d0dac51" width="33%">
+    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/206f8117-1f1d-46ac-a2a1-74b00cb9b0dd" width="33%">
+    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/9f2237cd-9d66-4b07-a7f1-918df7fe5996" width="33%">
+</div>
+<div align="center">
+    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/6ba66017-96fb-49df-bce1-a5bb7d99a092" width="33%">
+    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/de8ca920-4a0d-4a86-b8d4-8d2d15e48e2b" width="33%">
+    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/515203e8-e5df-4768-aab5-83e11a7450a7" width="33%">
+</div>
+<div align="center">
+    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/e2332886-9a1f-4569-821f-5ecb953db0c8" width="33%">
+</div>
+
 ![WhatsApp Image 2023-09-16 at 2 22 27 PM (1)](https://github.com/denizzhansahin/randevuApp/assets/95483485/5d69be50-e407-44e4-b3e8-b119d3cb3d2b)
 ![WhatsApp Image 2023-09-16 at 2 22 27 PM](https://github.com/denizzhansahin/randevuApp/assets/95483485/a16cc052-95cb-424c-a8f3-154f5fe38ba0)
 ![WhatsApp Image 2023-09-16 at 2 22 26 PM (2)](https://github.com/denizzhansahin/randevuApp/assets/95483485/3f53376d-e531-421d-802d-234bb10fde7e)
+
 ![WhatsApp Image 2023-09-16 at 2 22 26 PM (1)](https://github.com/denizzhansahin/randevuApp/assets/95483485/bce1ed42-ed8a-4c0b-a123-6d899d0dac51)
 ![WhatsApp Image 2023-09-16 at 2 22 26 PM](https://github.com/denizzhansahin/randevuApp/assets/95483485/206f8117-1f1d-46ac-a2a1-74b00cb9b0dd)
 ![WhatsApp Image 2023-09-16 at 2 22 25 PM (1)](https://github.com/denizzhansahin/randevuApp/assets/95483485/9f2237cd-9d66-4b07-a7f1-918df7fe5996)
-![WhatsApp Image 2023-09-16 at 2 22 25 PM](https://github.com/denizzhansahin/randevuApp/assets/95483485/6ba66017-96fb-49df-bce1-a5bb7d99a092)
 
+![WhatsApp Image 2023-09-16 at 2 22 25 PM](https://github.com/denizzhansahin/randevuApp/assets/95483485/6ba66017-96fb-49df-bce1-a5bb7d99a092)
 ![WhatsApp Image 2023-09-16 at 2 22 29 PM](https://github.com/denizzhansahin/randevuApp/assets/95483485/de8ca920-4a0d-4a86-b8d4-8d2d15e48e2b)
 ![WhatsApp Image 2023-09-16 at 2 22 28 PM (1)](https://github.com/denizzhansahin/randevuApp/assets/95483485/515203e8-e5df-4768-aab5-83e11a7450a7)
 ![WhatsApp Image 2023-09-16 at 2 22 28 PM](https://github.com/denizzhansahin/randevuApp/assets/95483485/e2332886-9a1f-4569-821f-5ecb953db0c8)
