@@ -12,9 +12,11 @@ Yönetici kullancını grafik arayüzü ilgili takvim günündeki her bir kullan
 Randevu alan kullanıcıların grafik arayüzü ise ilgili takvim günündeki boş olan randevu saatlerini görüntüleyip istediğini seçebilmektedir. Her bir kullanıcı, kendisine ait tüm aktif randevularını ise tarih, saat bilgisi olarak görüntülemektedir. Kullanıcı isteğe bağlı olarak önceden seçtiği randevuları iptal edebilmektedir.
 
 # Kullanılan Teknolojiler
+
 <div align="center">
-    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/032bfd1d-e822-4b8d-acb8-6899c3eaa680" width="33%">
-    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/032bfd1d-e822-4b8d-acb8-6899c3eaa680" width="33%">
+    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/7615863c-b7f5-4230-9e61-6f26c2c579b1" width="33%">
+    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/f295445f-9e7c-4785-a0f5-a4f173e5b4a8" width="33%">
+    <img src="https://github.com/denizzhansahin/randevuApp/assets/95483485/f1640074-7658-480f-a8c3-3e6646bc351a" width="33%">
 </div>
 
 ## Firebase Kullanım Şeması:
