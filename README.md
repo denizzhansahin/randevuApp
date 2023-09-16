@@ -1,10 +1,22 @@
 # RandevuApp
+
+<div align="center">
+    <img src="https://github.com/denizzhansahin/anket66/assets/95483485/9201bed8-6449-4f64-a733-23cde9de8018" width="80%">
+</div>
+
+
 Bu uygulama Kotlin ve Firebase ile Android cihazlar için geliştirilmiştir. Bu uygulamanın amacı randevu hizmetlerini tek bir çatı altında yönetmektir.
 Uygulamanın kullanımı sadece yetkili kişiler üzerinde gerçekleşmektedir. Bu kişiler yönetici ve randevu alan kullanıcılar olarak belirlenmiştir. Bu kullanıcıların tüm yetki tanımları Firebase Firestore üzerinde kayıtlıdır.
 Firebase Authentication hizmeti ile kullanıcıların giriş için gerekli bilgileri alınır ve oturum açma işlemi gerçekleşir. Firebase Firestore ise kullancıların yetki tanımlarının olduğu bilgileri tutmaktadır ve kullanıcıların girişlerine göre tanımlı olan yetki bilgisi için ilgili grafik araryüz açılmaktadır.
 Yönetici kullancını grafik arayüzü ilgili takvim günündeki her bir kullanıcının randevu aldığı saat bilgisi, kullanıcı email bilgisi ile eşleşen isim bilgisi gözükmektedir. Yönetici kullanıcı isterse bu randevuları iptal etmek seçeneğini kullanabilir. Yönetici kullanıcı ayrıca tüm aktif olan randevuların bilgisi hakkında bilgi alabilmektedir. Bunun için açılacak olan ekranda ise her bir kullanıcını email ile eşleşen ismi, randevu tarihi, randevu saati yer almaktadır. Yönetici bu randevuları isteğe bağlı olarak iptal edebilmektedir.
 Randevu alan kullanıcıların grafik arayüzü ise ilgili takvim günündeki boş olan randevu saatlerini görüntüleyip istediğini seçebilmektedir. Her bir kullanıcı, kendisine ait tüm aktif randevularını ise tarih, saat bilgisi olarak görüntülemektedir. Kullanıcı isteğe bağlı olarak önceden seçtiği randevuları iptal edebilmektedir.
 
+# Kullanılan Teknolojiler
+<div align="center">
+    <img src="https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/f13cef80-aa09-4bf7-8bd3-dcb3965bc31a" width="33%">
+    <img src="https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/1f5deccd-63c6-4663-af47-7e0a1e4863a8" width="33%">
+    <img src="https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/d0531f77-0df1-4a54-9a5e-57527de7ca5f" width="33%">
+</div>
 
 ## Firebase Kullanım Şeması:
 kullaniciBilgileri : Bu bir collectiondur, kullanıcıların Firebase Authentication ile ilgili ID bilgilerine göre isimlendirilen documentler vardır
